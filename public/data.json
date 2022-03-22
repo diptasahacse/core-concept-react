@@ -1,0 +1,313 @@
+[{
+    "questionName": "নিচের কোনটি শরৎচন্দ্র চট্রোপাধ্যায়ের ছদ্মনাম?",
+    "options": ["বীরবল", "ভিমরুল", "অনিলাদেবী", "যাযাবর"],
+    "answer": "অনিলাদেবী",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Literature"
+
+
+},
+{
+    "questionName": "সন্ধির বিসর্গ লােপ হয় কোন সন্ধিটিতে ?",
+    "options": ["প্রাতঃ + কাল", "শিরঃ + ছেদ", "শিরঃ + পীড়া", "যাযাবর"],
+    "answer": "মনঃ + কষ্ট",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘পূর্ণেন্দু’ কোন সন্ধি ?",
+    "options": ["স্বরসন্ধি", "ব্যঞ্জনসন্ধি", "বিসর্গ সন্ধি", "নিপাতনে সিদ্ধ সন্ধি"],
+    "answer": "স্বরসন্ধি",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘কৃষ্টি’ শব্দের সঠিক সন্ধি বিচ্ছেদ –",
+    "options": ["কৃ + ক্তি", "কৃষ + তি", "কৃঃ + তি", "কৃষ + টি"],
+    "answer": "কৃষ + তি",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘নিষ্কর’ শব্দের সন্ধি বিচ্ছেদ কোনটি ?",
+    "options": ["নিঃ + কর", "নীঃ + কর", "নিষ + কর", "নিস্ + কর"],
+    "answer": "নিঃ + কর",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘সন্ধি’ -এর সন্ধি বিচ্ছেদ কী ?",
+    "options": ["সম + ধি", "সম্ + ধি", "সম্ + ন্ধি", "সণ + ধি"],
+    "answer": "সম্ + ধি",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+
+},
+{
+    "questionName": "নিচের কোন শব্দে স্বভাবতই ‘ণ’ হয় ?",
+    "options": ["কারণ", "ব্রাহ্মণ", "ভাষণ", "লবণ / বাণিজ্য"],
+    "answer": "লবণ / বাণিজ্য",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "ঋ-কার ও র-এর পর ব্যবহার হয়-",
+    "options": ["স", "শ", "ষ", "ড়"],
+    "answer": "ষ",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "",
+    "options": ["", "", "", ""],
+    "answer": "",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "আবুল ফজলের 'রেখাচিত্র' কোন ধরনের রচনা?",
+    "options": ["আত্মজীবনী", "ভ্রমন কাহিনী", "উপন্যাস", "কাব্য"],
+    "answer": "আত্মজীবনী",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "মনের ভাব প্রকাশের প্রধান মাধ্যম কোনটি?",
+    "options": ["চিত্র", "ভাষা", "ইঙ্গিত", "আচরণ"],
+    "answer": "ভাষা",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "ভারতীয় চিত্রলিপির দুটি প্রাচীন রূপ হল-",
+    "options": ["ব্রাহ্মী ও খরোষ্ঠী", "ব্রাহ্মী ও দেবনাগরী", "ব্রাহ্ম ও কুটীল", "ব্রাহ্মী ও তিব্বতী"],
+    "answer": "ব্রাহ্মী ও খরোষ্ঠী",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "বাংলা ভাষার উদ্ভব হয় ---",
+    "options": ["সপ্তম খ্রিস্টাব্দে", "সপ্তম খ্রিস্টপূর্বাব্দে", "খ্রিস্টীয় ত্রয়োদশ শতকে", "খ্রিস্টীয় দ্বাদশ শতকে"],
+    "answer": "সপ্তম খ্রিস্টাব্দে",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "পৃথিবীতে বতর্মানে কতগুলো ভাষা প্রচলিত?",
+    "options": ["পাঁচ হাজার", "দু’হাজার", "এক হাজার", "সাড়ে তিন হাজার"],
+    "answer": "সাড়ে তিন হাজার",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "সর্বপ্রথম বঙ্গ নামের উল্লেখ পাওয়া যায় কোন গ্রন্থে?",
+    "options": ["ঐতরেয় আরণ্যক", "রঘুবংশ কাব্য", "উপনিষদ", "ত্রিপিটক"],
+    "answer": "ঐতরেয় আরণ্যক",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "বাংলা লিপি স্থায়ী রূপ লাভ করে কখন?",
+    "options": ["পাল আমলে", "সেন আমলে", "পাঠান আমালে", "মুঘল আমলে"],
+    "answer": "পাঠান আমালে",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "বাংলা ভাষা কোন ভাষাগোষ্ঠির অন্তর্ভুক্ত?",
+    "options": ["ইন্দো-জার্মানীয়", "বাল্টো-শ্লাভিয়ান", "ইন্দো-ইরানীয়", "ইন্দো-ইউরোপীয়"],
+    "answer": "ইন্দো-ইউরোপীয়",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Bangla Literature"
+},
+{
+    "questionName": "কোন শব্দে স্বভাবতই মূর্ধন্য ‘ষ’ হয় –",
+    "options": ["প্রতিষেধক", "ঋষি", "আষাঢ়", "কষ্ট"],
+    "answer": "আষাঢ়",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "কোনটি স্বভাবতই মূর্ধন্য ‘ষ’ – এর উদাহরণ ?",
+    "options": ["কাষ্ঠ", "বিষয়", "কৃষক", "ষড়যন্ত্র"],
+    "answer": "ষড়যন্ত্র",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘নাটিকা’ কোন অর্থে স্ত্রীবাচক শব্দ ?",
+    "options": ["সমার্থে", "বৃহদার্থে", "ক্ষুদ্রার্থে", "বিপরীতার্থে"],
+    "answer": "ক্ষুদ্রার্থে",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "কোনটির লিঙ্গান্তর হয় না ?",
+    "options": ["বেয়াই", "সাহেব", "কবিরাজ", "সঙ্গী"],
+    "answer": "কবিরাজ",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "‘রাষ্ট্রপতি’ কোন লিঙ্গ ?",
+    "options": ["পুংলিঙ্গ", "স্ত্রীলিঙ্গ", "নিত্যলিঙ্গ", "উভয়লিঙ্গ"],
+    "answer": "উভয়লিঙ্গ",
+    "catagory": "Bangla Language and Literature",
+    "subCatagory": "Language"
+},
+{
+    "questionName": "নিচের নম্বর সিরিজে কোনটি বসবে ? ১ , ২ , ৮ , ৪৮ , ৩৮৪",
+    "options": ["১৯৮০", "২৮৪০", "৩৮৪০", "৪৬২০"],
+    "answer": "৩৮৪০",
+    "catagory": "Math",
+    "subCatagory": "Algebra"
+},
+{
+    "questionName": "Her thinking leans ____ democracy.",
+    "options": ["with", "towards", "for", "None of these"],
+    "answer": "towards",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "He got too tired _____ over work.",
+    "options": ["because of", "because off", "on", "for"],
+    "answer": "because of",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "For good mental and physical health, Michael ________ bed earlier.",
+    "options": ["should go", "should go to", "should goes", "should goes to"],
+    "answer": "should go to",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "While UK has earned record revenue this year, __________ well behind in exports.",
+    "options": ["it still lag", "it still lags", "it lag still", "it lags still"],
+    "answer": "it still lags",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "Rukmani ……………… three paintings last year.",
+    "options": ["has made", "makes", "will make", "made"],
+    "answer": "made",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "I ………… a new dress yesterday.",
+    "options": ["bought", "shall buy", "buy", "has bought"],
+    "answer": "buy",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "Which one of these sentences is a compound sentence ?",
+    "options": ["Owing to weakness I cannot walk", "As I am weak I cannot walk", "I am weak but I can walk", "I can walk although I am weak"],
+    "answer": "I am weak but I can walk",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "'He reads the book'. বাক্যটির Interrogative কি হবে ?",
+    "options": ["Is he reading the book ?", "Doesn't he read the book ?", "Does he read the book ?", "Isn't he reading the book ?"],
+    "answer": "Does he read the book ?",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "What type of sentence is - 'What is lotted cannot be blotted ' ?",
+    "options": ["Simple", "Compound", "Complex", "Interrogative"],
+    "answer": "Simple",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "A compound sentence has --- ?",
+    "options": ["a subject and a finite verb", "one principle clause and one sub-ordinate clause", "two or more sub-ordinate clause", "None of these"],
+    "answer": "two or more sub-ordinate clause",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "If there was a concert today ----- .",
+    "options": ["I would go", "I would be gone", "I would have gone", "I would be going"],
+    "answer": "I would go",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "Which one is the correct question to ask ?",
+    "options": ["Do you have a complain against me ?", "Do you have a complained against me ?", "Do you have a complaint against me ?", "As you have a complaint against me ?"],
+    "answer": "Do you have a complain against me ?",
+    "catagory": "English Language and Literature",
+    "subCatagory": "English Language"
+},
+{
+    "questionName": "আপনার কাছে পাঁচটি আধুলি ,৮ টি সিকি আছে । আর কয়টা ১০ পয়সার মুদ্রা দিলে মোট ৫ টাকা হবে ?",
+    "options": ["১০", "১৫", "০৫", "০৩"],
+    "answer": "০৫",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "সোনা পানির তুলনায় ১৯.৩ গুণ ভারী। আয়তকার একটি সোনার বারের দৈর্ঘ্য ৮.৮ সেমি., প্রস্থ ৬.৪ সেমি. এবং উচ্চতা ২.৫ সেমি.। সোনার বারের ওজন কত?",
+    "options": ["২৬১৭.৪৪ গ্রাম", "২৭১৭.৪৪ গ্রাম", "২৭১৬.৪৮ গ্রাম", "২৭১৮ গ্রাম"],
+    "answer": "২৭১৭.৪৪ গ্রাম",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "চালের দাম ২৫% বৃদ্ধি পাওয়ায় এক ব্যক্তি চালের ব্যবহার এমনভাবে কমালেন যে চাল বাবদ তাঁর খরচ বৃদ্ধি পেল না। তিনি চালের ব্যবহার শতকরা কতভাগ কমালেন?",
+    "options": ["২০%", "১৬ %", "২৫%", "১২ %"],
+    "answer": "২০%",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "একটি ঘড়ি ১০% ক্ষতিতে বিক্রয় হলো। বিক্রয় মূল্য ৪৫ টাকা বেশি হলে ৫% লাভ হতো। ঘড়িটির ক্রয়মূল্য কত?",
+    "options": ["৪০০ টাকা", "৩৫০ টাকা", "৩০০ টাকা", "২৫০ টাকা"],
+    "answer": "৩০০ টাকা",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "কোনো দোকানদার ৭ % ক্ষতিতে একটি দ্রব্য বিক্রয় করে। দ্রব্যটির ক্রয়মূল্য ১০% কম এবং বিক্রয়মূল্য ৩১ টাকা বেশি হলে ২০% লাভ হতো। দ্রব্যটির ক্রয়মূল্য কত?",
+    "options": ["১৫০ টাকা", "২০০ টাকা", "২৫০ টাকা", "৩০০ টাকা"],
+    "answer": "২০০ টাকা",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "২ ও ৩২ এর মধ্যে মৌলিক সংখ্যা কয়টি ?",
+    "options": ["১০", "৯", "৮", "১১"],
+    "answer": "৯",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "একটি সংখ্যা ৬৫০ থেকে যত বড় ৮২০ থেকে তত ছোট। সংখ্যাটি কত ?",
+    "options": ["৭৩০", "৭৫০", "৭৩৫", "৮৫০"],
+    "answer": "৭৩৫",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "দুটি ক্রমিক পূর্ণসংখ্যা নির্ণয় করুন, যাদের বর্গের অন্তর ৪৭-",
+    "options": ["২১ এবং ২২", "২২ এবং ২৩", "২৩ এবং ২৪", "২৪ এবং ২৫"],
+    "answer": "২৩ এবং ২৪",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+},
+{
+    "questionName": "14 জন খেলোয়াড়ের মধ্যে থেকে নির্দিষ্ট একজন অধিনায়কসহ 11 জনের একটি ক্রিকেট দল কতভাবে বাছাই করা যাবে?",
+    "options": ["728", "286", "364", "1001"],
+    "answer": "286",
+    "catagory": "Math",
+    "subCatagory": "Arithmetic"
+}
+
+]
